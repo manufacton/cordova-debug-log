@@ -1,0 +1,19 @@
+{
+  "name": "cordova-debug-log",
+  "version": "1.0.0",
+  "description": "Simple plugin to fetch the log cat for the running application and forward the logs to js. Which can then be forwarded to devs for easier debugging.",
+  "main": "CaptureLogcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svnindia/cordova-debug-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svnindia/cordova-debug-log/issues"
+  },
+  "homepage": "https://github.com/svnindia/cordova-debug-log#readme"
+}
