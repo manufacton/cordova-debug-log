@@ -1,0 +1,25 @@
+{
+  "name": "com.manufacton.CaptureLogcat",
+  "version": "0.1.0",
+  "description": "Simple plugin to fetch the log cat for the running application and forward the logs to js. Which can then be forwarded to devs for easier debugging.",
+  "cordova": {
+    "id": "com.manufacton.CaptureLogcat",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manufacton/cordova-debug-log.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manufacton/cordova-debug-log/issues"
+  },
+  "homepage": "https://github.com/manufacton/cordova-debug-log#readme"
+}
